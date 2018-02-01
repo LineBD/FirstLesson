@@ -41,5 +41,10 @@ namespace Calculator.Test.Unit
         {
             Assert.That(_uut.Power(2,2), Is.EqualTo(4));
         }
+        [Test]
+        public void Divide_TowNumbers_SumIsCorrect()
+        {
+            Assert.That(_uut.Divide(6,3), Is.EqualTo(2));
+        }
     }
 }
