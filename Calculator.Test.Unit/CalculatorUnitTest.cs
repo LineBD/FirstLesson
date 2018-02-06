@@ -44,7 +44,7 @@ namespace Calculator.Test.Unit
         [Test]
         public void Divide_TowNumbers_SumIsCorrect()
         {
-            Assert.That(_uut.Divide(8,4), Is.EqualTo(2));
+            Assert.That(_uut.Divide(8,4), Is.EqualTo(3));
         }
     }
 }
