@@ -8,9 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Test.Unit", "Calculator.Test.Unit\Calculator.Test.Unit.csproj", "{04F1EEAE-DD35-44DE-90BD-B869E9971BAA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8F760A7-691D-4DA5-A8AB-12B19B5DA97C}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\dotCoverCoverageConfig.xml = ..\..\..\Desktop\dotCoverCoverageConfig.xml
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
